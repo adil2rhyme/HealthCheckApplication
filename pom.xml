@@ -6,7 +6,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>HealthCheckApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>myapp</name>
+	<name>HealthCheckApplication</name>
 	<description>A demo Spring Boot project</description>
 
 	<properties>
